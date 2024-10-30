@@ -1,0 +1,8 @@
+.userDetails{
+    border: 2px solid mediumvioletred;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 25px;
+    border-radius: 15px;
+    background-color: darkcyan;
+}
